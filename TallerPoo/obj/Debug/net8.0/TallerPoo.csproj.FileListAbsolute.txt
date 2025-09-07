@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\bin\Debug\net8.0\TallerPoo.exe
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\bin\Debug\net8.0\TallerPoo.deps.json
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\bin\Debug\net8.0\TallerPoo.runtimeconfig.json
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\bin\Debug\net8.0\TallerPoo.dll
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\bin\Debug\net8.0\TallerPoo.pdb
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.sourcelink.json
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.dll
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\refint\TallerPoo.dll
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.pdb
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\TallerPoo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Universidad\6-semestre\scripting\taller-poo\IDED_Scripting_Taller2\TallerPoo\obj\Debug\net8.0\ref\TallerPoo.dll

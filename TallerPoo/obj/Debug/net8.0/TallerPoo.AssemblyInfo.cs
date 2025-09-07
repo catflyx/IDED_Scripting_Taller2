@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerPoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216830f8fbd08695158a454dc1cc7e16e8a7485a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a23e70b15a0a4e86df623f732950223a8d31cc45")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerPoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerPoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
